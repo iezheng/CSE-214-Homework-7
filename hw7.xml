@@ -1,0 +1,9 @@
+<Island>
+<name>Longer Island</name>
+<cities>
+["Small Pear","Composting Fields","Hipster","Gatsby","Lawn City","Bones Beach","Fishingville","Fire Hazard","University","Kingkongoma","Stream Foot","North Spoon","South Spoon"]
+</cities>
+<roads>
+["Composting Fields,Small Pear,12","Lawn City,Small Pear,30","Hipster,Small Pear,14","Lawn City,Hipster,16","Gatsby,Composting Fields,10","Fishingville,Lawn City,17","Fishingville,Gatsby,11","Bones Beach,Hipster,12","Bones Beach,Lawn City,8","Fire Hazard,Bones Beach,13","Kingkongoma,Fire Hazard,7","Kingkongoma,Lawn City,20","University,Kingkongoma,6","University,Fishingville,18","Stream Foot,University,6","Stream Foot,Kingkongoma,11","North Spoon,Stream Foot,15","South Spoon,Stream Foot,20"]
+</roads>
+</Island>
